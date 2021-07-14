@@ -1,0 +1,16 @@
+All notable changes to this project will be documented in this file.
+
+## [1.3.0] - 2021-07-14
+### Added
+- The project needs to add new functionality test.php
+
+### Changed
+- Start using "changelog" over "change log" since it's the common usage.
+- Start versioning based on the current English version at 0.3.0 to help
+translation authors keep things up-to-date.
+- A production error occurred that caused the system to fail. Added a phpinfo() function call to index.php file;
+
+### Removed
+- Section about "changelog" vs "CHANGELOG".
+
+
